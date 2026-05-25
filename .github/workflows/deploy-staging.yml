@@ -11,6 +11,7 @@ env:
   ###############################################
   DOCKER_IMAGE_NAME: VilleSchulz-azure-ttt
   AZURE_WEBAPP_NAME: VilleSchulz-ttt-app
+  
   ###############################################
 
 jobs:
